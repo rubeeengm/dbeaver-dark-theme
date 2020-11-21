@@ -1,1 +1,1 @@
-# eclipse-dark-theme
+# dbeaver-dark-theme
